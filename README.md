@@ -1,6 +1,6 @@
 # CS663 Lab 04 - Hierarchical
 
-name: Pengfei Song
+name: Pengfei Song. 
 email: psong4@dons.usfca.edu
 
 Datasets for this lab are:
